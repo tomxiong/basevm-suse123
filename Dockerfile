@@ -10,10 +10,8 @@ RUN zypper --non-interactive install --auto-agree-with-licenses \
   wget \
   ntp \
   sudo \
-  libaio \
   iputils \
   iptables \
-  cron \
   sysconfig \
   vim \
   ruby \
@@ -21,15 +19,11 @@ RUN zypper --non-interactive install --auto-agree-with-licenses \
   tcpdump \   
   dialog \
   bc \
-  binutils \
   expect \ 
-  lsof  \
   procinfo  \
-  tar  \
   tcsh  \
   keyutils \
   zip \
   unzip \
-  sysconfig \
   perl-Tk \
   puppet
