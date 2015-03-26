@@ -30,5 +30,5 @@ RUN zypper --non-interactive install --auto-agree-with-licenses \
   keyutils \
   zip \
   unzip \
-  sysconfig
+  sysconfig \
   perl-Tk
