@@ -31,4 +31,5 @@ RUN zypper --non-interactive install --auto-agree-with-licenses \
   zip \
   unzip \
   sysconfig \
-  perl-Tk
+  perl-Tk \
+  puppet
